@@ -1,0 +1,11 @@
+h1{
+    font-weight: 10000;
+    font-style: italic;
+    
+}
+
+#heading{
+    background-color: aqua;
+    text-align: center;
+    display: inline;
+}
